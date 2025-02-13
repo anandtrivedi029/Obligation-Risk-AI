@@ -5,22 +5,22 @@ This project was initially developed for the NASSCOM AI Submission 2024 and show
 Originally created for NASSCOM, the project will continue to evolve, with ongoing enhancements to improve its features and usability.
 
 Key Features
-Clause Extraction
+1.Clause Extraction
 Extracts relevant clauses from documents.
 
-Term Extraction
+2. Term Extraction
 Identifies and extracts key terms for better classification.
 
-Risk Identification
+3. Risk Identification
 Detects potential risks within documents.
 
-Obligation Extraction
+4. Obligation Extraction
 Automatically extracts and categorizes obligations.
 
-Task Conversion
+5. Task Conversion
 Converts obligations into actionable tasks.
 
-Milestone Generation
+6. Milestone Generation
 Transforms obligations into structured project milestones.
 
 This project aims to streamline risk and compliance tracking using AI, making it a valuable tool for document analysis and contract management.
