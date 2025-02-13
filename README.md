@@ -26,4 +26,7 @@ Transforms obligations into structured project milestones.
 This project aims to streamline risk and compliance tracking using AI, making it a valuable tool for document analysis and contract management.
 
 ![Image Description](https://raw.githubusercontent.com/your-username/repository-name/main/images/logo.png)
+
+<br/>
+
 ![Image](https://github.com/user-attachments/assets/2c9dfd76-69bd-450f-a211-e2121609e823)
