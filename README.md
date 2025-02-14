@@ -27,6 +27,8 @@ This project aims to streamline risk and compliance tracking using AI, making it
 
 ![Image Description](https://raw.githubusercontent.com/your-username/repository-name/main/images/logo.png)
 
-<br/>
+<br/>    https://youtu.be/7VrUOjBcD6Y
+
+[![Watch the video](https://github.com/user-attachments/assets/2c9dfd76-69bd-450f-a211-e2121609e823)](https://youtu.be/7VrUOjBcD6Y)
 
 ![Image](https://github.com/user-attachments/assets/2c9dfd76-69bd-450f-a211-e2121609e823)
